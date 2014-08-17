@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Kevin P",
+    "longName": "Hello World",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Hello World",
+    "uuid": "7a86b242-8164-468c-863a-6664bd80dd5b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
